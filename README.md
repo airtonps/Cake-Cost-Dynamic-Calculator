@@ -1,4 +1,5 @@
 🎂 Interactive Recipe Cost Calculator
+
 This Python script is a simple, interactive tool that helps you calculate the total cost of a recipe based on the individual prices and quantities of its ingredients. It's especially useful for small businesses or home bakers who want to accurately price their products.
 
 ✨ Features
